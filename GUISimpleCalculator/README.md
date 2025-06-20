@@ -1,1 +1,0 @@
-This Project is a Simple GUI Calculator develop with HTML, CSS and JavaScript.
